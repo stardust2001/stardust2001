@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-- 
+
 
 - 🌱 I’m currently learning **AWS,DJango**
 
